@@ -1,6 +1,6 @@
 {
   "name": "blockui",
-  "version": "2.0",
+  "version": "2.1",
   "description": "The jQuery BlockUI Plugin lets you simulate synchronous behavior when using AJAX, without locking the browser.",
   "homepage": "http://jquery.malsup.com/block/",
   "bugs": "https://github.com/malsup/blockui/issues",
