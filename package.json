@@ -12,6 +12,6 @@
   "main": "jquery.blockUI.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Shikkic/blockui"
+    "url": "https://github.com/Shikkic/blockui.git"
   }
 }
